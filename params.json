@@ -1,0 +1,6 @@
+{
+  "name": "Bruce.GitHub.io",
+  "tagline": "",
+  "body": "<html !DOCTYPE>\r\n<head><title>Happy Birthday</title></head>\r\n\r\n<h1> Happy Birthday Bruce Wayne!</h1>\r\n<ul>\r\n  <li><a href=\"http://www.gsu.edu/\">Home</a></li>\r\n  <li><a href=\"http://magiccityreservations.com/contact-us/\">Party Address</a></li>\r\n  <li><a href=\"contact.asp\">Contact Information</a></li>\r\n  <li><a href=\"about.asp\">Event List</a></li>\r\n</ul>\r\n<body class=\"center\">\r\n\r\n<p class=\"dotted\">Happy Birthday Bruce!!.</p>\r\n\r\n<script>\r\n\r\nfunction logoBat(){\r\n\tdocument.getElementById(\"bat\").src=\"batlogo.jpg\";\r\n}\r\nfunction wayne(){\r\n\tdocument.getElementById(\"bat\").src=\"Wayne.png\";\r\n}\r\n</script>\r\n\r\n\r\n</body>\r\n\r\n\r\n<div>\r\n<img id=\"bat\" onmouseover=\"logoBat()\" onmouseout=\"wayne()\" src=\"Wayne.png\" alt= \"Wayne\">\r\n</div>\r\n\r\n\r\n</html>\r\n\r\n<style>\r\np.dotted {border-style: dotted;}\r\n.center {\r\n\tfont-size: 20px;\r\n    text-align: center;\r\n    border: 3px solid yellow;\r\n}\r\nbody{\r\nbackground-color: purple;\r\n}\r\nh1 {\r\nfont-size: 40px;\r\nfont-align: center;\r\n}\r\nul {\r\n    list-style-type: none;\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nli {\r\n\tdisplay: inline;\r\n}\r\n</style>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
